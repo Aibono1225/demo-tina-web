@@ -26,7 +26,7 @@ export default defineConfig({
   },
   media: {
     tina: {
-      mediaRoot: "../../../demo-content",
+      mediaRoot: "https://github.com/Aibono1225/demo-content/blob/main",
       publicFolder: "static",
     },
   },
