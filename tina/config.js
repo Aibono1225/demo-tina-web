@@ -17,8 +17,8 @@ export default defineConfig({
   // Get this from tina.io
   // token: process.env.TINA_TOKEN,
   token: "df266ea11b72b9b211b43acf44f8fa1f1579d8d9",
-  localContentPath: "../../../demo-content",
-  // localContentPath: "../../demo-content-repo",
+  // localContentPath: "../../../demo-content",
+  localContentPath: "https://github.com/Aibono1225/demo-content/blob/main",
   build: {
     outputFolder: "admin",
     publicFolder: "static",
