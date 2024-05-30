@@ -36,7 +36,7 @@ export default defineConfig({
       {
         name: "post",
         label: "Posts",
-        path: "content/blog",
+        path: "https://github.com/Aibono1225/demo-content/tree/main/content/blog",
         fields: [
           {
             type: "string",
